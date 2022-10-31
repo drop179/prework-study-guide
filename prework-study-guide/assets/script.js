@@ -28,3 +28,7 @@ if (topic === 'HTML') {
  console.log('Please try again!');
 }
 */
+
+function helloWorld() {
+    console.log("Hello, world, I am a function!")
+}
